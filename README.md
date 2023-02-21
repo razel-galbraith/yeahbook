@@ -1,7 +1,8 @@
-# Year-book!
+# YeahBook!
 https://yeahbook.devacademy.nz/ 
-## What is Year-book?
-A facebook-like app that lets the user view and chat to old friends from bootcamp
+## What is YeahBook?
+A social app that lets the user view and chat to old friends from bootcamp. 
+Create as many different books for different grooups as you like!
 
 ## Where to look for the planning?
 [Check out the Miro board!](https://miro.com/app/board/uXjVP-_6Y3M=/)
